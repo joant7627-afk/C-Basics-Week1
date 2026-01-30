@@ -1,2 +1,2 @@
-# C-Basics-Week1
-# C-Basics-Week1
+# python project repository 
+# promotion Exam repository 
